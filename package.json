@@ -1,0 +1,10 @@
+{
+	"name": "nood_todo_list",
+	"description": "Beginner todo list with nodejs, expressjs and ejs",
+	"author": "Diego Budny da Silva",
+	"version": "1.0.0",
+	"dependencies": {
+		"express": "~3.2.1",
+		"ejs": "~0.8.3"
+	}
+}
